@@ -956,5 +956,4 @@ Neste capítulo você aprendeu:
 ## Próximo capítulo
 
 No **Capítulo 21**, você aprenderá **Git e GitHub na prática para Desenvolvedores**, criando repositórios profissionais, commits, branches, pull requests, README e preparando seu portfólio para o mercado de trabalho.
-não termina por aqui ainda não em! vamos para o volume 3 para acessar o capito 21 e os a seguir 
-para ter acesso ao volume 3 acesse este link! "[volume 3](https://github.com/bielzinott1-commits/M-DULO-3-Desenvolvimento-Web)"
+# não termina por aqui ainda não em! vamos para o volume 3 para acessar o capito 21 e os a seguir para ter acesso ao volume 3 acesse este link! "[volume 3](https://github.com/bielzinott1-commits/M-DULO-3-Desenvolvimento-Web)"
