@@ -2,7 +2,7 @@
 
 # Do Zero ao Desenvolvedor Full Stack
 
-## Volume 3 – Desenvolvimento Web
+## Volume 2 – Desenvolvimento Web
 
 # CAPÍTULO 20
 
